@@ -87,11 +87,11 @@ For example, in a conversation you might become somewhat frustrated about someth
 
 As a beginner, there are two basic questions that might help you orient towards common misconceptions, and begin to explore some of this subtlety:
 
-- If it is good, why don’t/can't you do it?
+- What are the difficult or infeasible parts of doing good?
 
-- If it is bad, why do you keep doing it?
+- What are the difficult or infeasible parts of not doing bad?
 
-Answers to these questions might involve changing your conceptions of good and bad, or they might involve changing the way that you are trying, and figuring out the exact right level of effort: high enough to avoid inaction, and low enough to avoid building up subtle aversions or resistances in the long run. Note that these questions are meant to be taken lightly, and that it is OK (and likely advisable) to completely drop and forget them if they generate resistance, inner conflict, self-loathing, forcing, etc. 
+These questions are not meant to be accusatory, but are meant to direct your attention toward the ways in which feasibility is often related to good and bad, and towards figuring out the exact right level of effort: high enough to avoid inaction, and low enough to avoid building up subtle aversions or resistances in the long run. Note that these questions are meant to be taken lightly, and that it is OK (and likely advisable) to completely drop and forget them if they generate resistance, inner conflict, self-loathing, forcing, etc. 
 
 Another way to begin to orient towards this subtlety is a fairly famous koan, that goes: "What is this?". I have found that it can be very useful to ask myself this question, and when I think that I have an answer, to ask it again, and again, and again. The answer to this question might be words, feelings, body sensations, barely-perceptible shifts in one's experience, openings and releases of tension, yet more uncertainty, or any number of other experiences. All of these can be valuable answers. Especially at the beginning, it can be very useful to assume that there is always more that is going on than one is currently aware of, and to incline your awareness towards types of answers that you aren't familiar with.
 
