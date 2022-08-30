@@ -1,6 +1,6 @@
 # The URL the site will be built for
 title = "autodereify"
-description = "Musings on the near and far"
+description = "Towards skillful construction"
 base_url = "https://autodereify.me"
 # base_url = "https://autodereify.github.io/"
 
