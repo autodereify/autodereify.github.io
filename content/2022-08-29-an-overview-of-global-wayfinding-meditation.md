@@ -136,7 +136,7 @@ I would recommend this mainly for individuals who are already specialists in a g
 - What does your domain knowledge imply about how you should handle your life?
 - Can you better integrate this knowledge into how you live your life?
 - Can you use this knowledge to "flexibly and exquisitely handle your shit"? What actions might you need to take to solve all of your problems in life?
-- What does this knowledge imply about the way that you formulate problems both within your field, and within life in general? Are the problems you are trying to solve the right problems to attempt to solve? Are they even well-defined and solvable problems?
+- What does this knowledge imply about the way that you formulate problems both within your field, and within life in general? Are the problems you are trying to solve the right problems to attempt to solve? Are the problems actually well-defined and solvable?
 
 Further, for specialists, specialists-in-training, or those with a strong avocational interest in science, I would recommend reading about the history and philosophy of science. A somewhat surprising number of people involved in science spend very little time thinking about or considering the underpinnings of science. Recommendations for history and philosophy of science include:
 
