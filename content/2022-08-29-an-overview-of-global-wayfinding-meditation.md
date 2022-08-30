@@ -144,7 +144,7 @@ Further, for specialists, specialists-in-training, or those with a strong avocat
 - Paul Feyerabend's *Against Method*
 - Karl Popper's *The Logic of Scientific Discovery*
 
-\[An observation to whet your appetite: Quantum Field Theory's prediction for zero-point energy is at least [120 orders of magnitude greater than experimental observations suggest](https://en.wikipedia.org/wiki/Zero-point_energy#Experimental_observations), yet it is still routinely used. What does this imply about the idea of falsifiability? If the progress of science routinely depends upon disregarding the idea of falsifiability, then what is science?\] 
+\[An observation to whet your appetite: Quantum Field Theory's prediction for zero-point energy is at least [120 orders of magnitude greater than experimental observations suggest](https://en.wikipedia.org/wiki/Zero-point_energy#Experimental_observations), and yet QFT is still routinely used. What does this imply about the idea of falsifiability? If the progress of science routinely depends upon disregarding the idea of falsifiability, then what is science?\] 
 
 Note that everything said above applies to other knowledge domains that might be pertinent to the real world, such as engineering, math, history, politics, and economics.
 
