@@ -202,7 +202,7 @@ Don't worry if this quote doesn't make total sense to you. While it can be helpf
 
 If these answers aren't totally satisfy you, or you are still curious about how Global Wayfinding differs from 'standard' meditation, the Manual actually contains a [section with the same name as this one](https://meditationbook.page/#but-is-it-meditation-a-dialogue-between-j-and-mark), but it might not be particularly comprehensible to you unless you have some experience with meditation theory and/or the Pragmatic Dharma (The Mind Illuminated, Daniel Ingram, etc.). If you are familiar with techniques such as noting, you might also find the section [a bare-bones, bottom-up, noting-esque practice (without labeling)](https://meditationbook.page/#a-bare-bones-bottom-up-noting-esque-practice-withou) useful for getting a sense of what Global Wayfinding can start to look like.
 
-## 8. Exegesis of the Manual
+## 8. Approaching and Interpreting the Manual
 
 As you start to experiment with Global Wayfinding, it can be useful to engage with the Manual. However, as mentioned earlier, it can be pretty difficult to engage with, especially at the start. There is a quote from the Manual (originating from a collaborator) that summarizes the core of this difficulty:
 
