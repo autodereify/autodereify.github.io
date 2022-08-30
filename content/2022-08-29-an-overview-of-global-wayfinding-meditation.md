@@ -150,7 +150,7 @@ Note that everything said above applies to other knowledge domains that might be
 
 ### 6.4: Spiritual Systems
 
-Spiritual systems can be extremely useful for pretty much all parts of Global Wayfinding Meditation. Their biggest limits are usually in parts 4, 5, and 6, in that they can have some pretty big blind spots (e.g. incomplete metaphysics, inaccurate descriptions of natural phenomena, etc.), and they can have problems with orthodoxy and evolving their conceptions of good and bad. Generally I have found mystical traditions to be the most relevant and useful, however, you should be able to use just about any system, so long as you don't hold it too tightly, seek out data from other sources, and allow your understanding to evolve.
+Spiritual systems can be extremely useful for pretty much all parts of Global Wayfinding Meditation. Their biggest limits are usually in parts 4, 5, and 6, in that they can have some pretty big blind spots (e.g. incomplete metaphysics, inaccurate descriptions of natural phenomena, etc.), and they can have problems with orthodoxy and evolving their conceptions of good and bad. Generally I have found mystical traditions to be the most relevant and useful, however, you should be able to use just about any system, so long as you don't hold it too tightly, seek out data to cover your blind spots, and allow your understanding to evolve.
 
 ### 6.5: Journaling
 
