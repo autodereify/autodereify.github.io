@@ -18,3 +18,8 @@ smart_punctuation = true
 
 [extra]
 # Put all your custom variables here
+
+[[extra.social]]
+icon = "twitter"
+name = "Twitter"
+url = "https://github.com/XXXMrG/"
