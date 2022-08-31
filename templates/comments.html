@@ -1,0 +1,21 @@
+{% extends "index.html" %}
+
+{% block title %}Comments For {{ page.title }} &middot; {{ config.title }}{% endblock title %}
+{% block description %}{{ page.description | default(value=config.description) }}{% endblock description %}
+
+{% block ogtitle %}{{ page.title }}{% endblock ogtitle %}
+{% block ogdesc %}{{ page.description }}{% endblock ogdesc %}
+{% block ogurl %}{{ page.permalink | safe }}{% endblock ogurl%}
+
+{% block content %}
+<div><a href="{{ "." | safe }}">&#11176; Back to essay</a></div>
+
+<div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="778a6017-c2d9-4075-894b-43c3aa65488e"
+  data-page-id="{{ page.permalink }}"
+  data-page-url="{{ page.permalink }}"
+  data-page-title="{{ page.title }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+{% endblock content %}

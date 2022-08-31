@@ -69,7 +69,9 @@
       <h2 class="homepage-h2"><img height=20em width=20em src="{{ get_url(path="quill.svg") | safe }}"/> Essays</h2>
       <ul class="homepage-list">
         {% for post in section.pages %}
+          {% if "essay" in post.taxonomies.tags %}
           {{ macros::post_in_list(post=post) }}
+          {% endif %}
         {% endfor %}
       </ul>
       {% endblock content %}
@@ -88,7 +90,7 @@
         </nav>
         {% endif %}
         {% block taglines %}
-          {% if config.extra.footer_tagline %}{{ config.extra.footer_tagline }}{% endif %}
+          {% if config.extra.footer_tagline %}<center>{{ config.extra.footer_tagline }}</center>{% endif %}
         </small>
         {% endblock taglines %}
       </footer>
