@@ -8,8 +8,8 @@ body{
 }
 a,
 a:visited {
-	color: darkred;
-	text-decoration: none;
+	color: #a00000;
+	text-decoration: underline;
 }
 .title {
   // font-size: m;
@@ -21,6 +21,7 @@ a:visited {
   font-size: 28pt;
   margin-left: 10px;
   text-transform: uppercase;
+  text-decoration: none;
 }
 .signature {
   text-align: right;
