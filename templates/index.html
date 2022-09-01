@@ -90,11 +90,9 @@
         <div class="footer-info">
           <small>
           {% for social in config.extra.social %}
-              <a class="soc" href={{ social.url }} title={{ social.name }}>
-                {{ social.name }}
-              </a>
+              <a class="soc" href={{ social.url }} title={{ social.name }}>{{ social.name }}</a>
           {% endfor %}
-          | Copyright © {{ now() | date(format="%Y") }}
+           | Copyright © {{ now() | date(format="%Y") }}
           </small>
         </div>
       </footer>
