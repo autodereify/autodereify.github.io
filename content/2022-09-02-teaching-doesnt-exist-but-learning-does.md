@@ -9,7 +9,7 @@ There is a certain view, which I have found useful, that postulates "teaching do
 
 <center>⋯</center>
 
-A teacher might think that they are teaching you to speak better when they correct your pronunciation of a word, but you might be learning that "speaking up leads to embarrassment and should be avoided at all costs". Such a teacher has provided data for the student to learn from which includes words, intonation, expression, demeanor, and more. Such a student has done the best that they can to learn from this data.
+A teacher might think that they are teaching you to speak better when they correct your pronunciation of a word, but you might instead be learning that "speaking up leads to embarrassment and should be avoided at all costs". Such a teacher has provided data for the student to learn from which includes words, intonation, expression, demeanor, and more. Such a student has done the best that they can to learn from this data.
 
 <center>⋯</center>
 
