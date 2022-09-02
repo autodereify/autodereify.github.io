@@ -69,7 +69,18 @@
       <h2 class="homepage-h2"><img height=20em width=20em src="{{ get_url(path="quill.svg") | safe }}"/> Essays</h2>
       <ul class="homepage-list">
         {% for post in section.pages %}
-          {{ macros::post_in_list(post=post) }}
+          {% if "essay" in post.extra.tags %}
+            {{ macros::post_in_list(post=post) }}
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <h2 class="homepage-h2"><img height=20em width=20em src="{{
+        get_url(path="pencil.svg") | safe }}"/> Sketches</h2>
+      <ul class="homepage-list">
+        {% for post in section.pages %}
+          {% if "sketch" in post.extra.tags %}
+            {{ macros::post_in_list(post=post) }}
+          {% endif %}
         {% endfor %}
       </ul>
       {% endblock content %}

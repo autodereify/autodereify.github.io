@@ -2,6 +2,7 @@
 title = "An Overview of Global Wayfinding Meditation"
 [extra]
 author = "Collin"
+tags = ["essay"]
 +++
 
 Global Wayfinding Meditation is a meditation system created by Mark Lippmann. It has profoundly influenced the way I think about and do meditation. There exists a single guide to it in the form of a book-length webpage accessible at [meditationbook.page](https://meditationbook.page/), with the wordy title _Meditation from Cold Start to Complete Mastery: a Manual of Global Wayfinding Meditation_ \[hereafter, referred to simply as the Manual. However, note that the *a* is important in *a Manual of Global Wayfinding Meditation* -- it is meant to be one of many potential introductions to Global Wayfinding. I would refer to it as a Manual if not for the awkward sentences this causes.\]. I would highly recommend that anyone seriously interested in meditation read the Manual. However, many people (including myself) have bounced off of the Manual, for two main reasons: 1) it is somewhat long (by word count, it is about the same length as Jane Austen's _Sense and Sensibility_), and 2) it is fairly impenetrable (I have found it to be especially impenetrable for those without a technical background and familiarity with philosophy).

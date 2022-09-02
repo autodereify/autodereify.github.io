@@ -18,6 +18,9 @@ smart_punctuation = true
 
 [extra]
 # Put all your custom variables here
+taxonomies = [
+    { name = "tags" },
+]
 
 [[extra.social]]
 icon = "twitter"

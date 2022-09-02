@@ -16,6 +16,9 @@
 {% block content %}
 <article>
   <h1><center>{{ page.title }}</center></h1>
+  {% if "sketch" in page.extra.tags  %}
+  <center><big><i>A Sketch</i></big></center>
+  {% endif %}
 
   {% if page.date and page.author %}
     <p style="font-size:90%;">Posted on <time datetime="{{ page.date | date(format="%+") }}">{{ page.date | date(format="%B %d, %Y") }}</time></p>
