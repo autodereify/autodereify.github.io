@@ -1,6 +1,8 @@
 +++
 title = "About This Theme"
 path = "about"
+[extra]
+tags = []
 +++
 
 An insanely fast and performance-based Zola theme, ported from [Light Speed Jekyll](https://github.com/bradleytaunt/lightspeed).
