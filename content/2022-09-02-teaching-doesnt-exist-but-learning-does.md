@@ -9,11 +9,11 @@ There is a certain view, which I have found useful, that postulates "teaching do
 
 <center>⋯</center>
 
-A teacher might think that they are teaching you to speak better when they correct your pronunciation of a word, but you might instead be learning that "speaking up leads to embarrassment and should be avoided at all costs". Such a teacher has provided data for the student to learn from which includes words, intonation, expression, demeanor, and more. Such a student has done the best that they can to learn from this data.
+A teacher might think that they are teaching you to speak better when they correct your pronunciation of a word, but you might instead be learning that "speaking up leads to embarrassment and should be avoided at all costs". Such a teacher has provided data for the student to learn from that includes their words, intonation, expression, demeanor, and more. Such a student has done the best that they can to learn from this data.
 
 <center>⋯</center>
 
-The most common model for teaching is "shoving knowledge into students heads". The problem is that the knowledge which is shoved is not the same as the thing that is learned. This becomes especially clear when teachers, or those who would teach, become upset at apparently intransigent students, and try even harder to force the knowledge into their heads without changing their way of teaching. This seldom works, and from the view of "no teaching, only learning", this makes sense. The teacher has just modified that data that they are providing to students by adding something like "and teacher is angry that you don't understand this" to it. It is of little surprise that such a modification doesn't make learning easier.
+The most common model for teaching is "shoving knowledge into students heads". The problem is that the knowledge that is shoved is often not what is learned. This becomes especially clear when teachers, or those who would teach, become upset at apparently intransigent students, and try even harder to force the knowledge into their heads without changing their way of teaching. This seldom works, and from the view of "no teaching, only learning", this makes sense. The teacher has just modified that data that they are providing to students by adding something like "and teacher is angry that you don't understand this" to it. It is of little surprise that such a modification doesn't make learning easier.
 
 <center>⋯</center>
 
