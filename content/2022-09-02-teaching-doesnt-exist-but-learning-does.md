@@ -56,7 +56,7 @@ The complexity of a learner's own understanding usually far exceeds the complexi
 
 <center>⋯</center>
 
-On the flip side, sometimes others can be dangerously good and changing our information environment, and are able to "take us apart and rewire us" through thier control of our information environment.
+On the flip side, sometimes others can be dangerously good and changing our information environment, and are able to "take us apart and rewire us" through their control of our information environment.
 
 <center>⋯</center>
 
