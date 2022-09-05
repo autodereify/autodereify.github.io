@@ -15,7 +15,7 @@ The data of your experience are also viewed as proteins, which can interact with
 
 <center>⋯</center>
 
-If parts of the structure of the data closely match the parts of the structure of your understanding, then they can interact with each other. You might have receptors in your understanding that can receive and interface with certain types of data. Once these receptors are filled, it might cause the entire structure of your understanding to shift around the novel data.
+If parts of the structure of data closely match parts of the structure of your understanding, then they can interact with each other. You might have receptors in your understanding that can receive and interface with certain types of data. Once these receptors are filled, it might cause the entire structure of your understanding to shift around the novel data.
 
 <center>⋯</center>
 
