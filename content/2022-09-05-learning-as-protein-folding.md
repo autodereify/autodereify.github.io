@@ -5,13 +5,13 @@ author = "Collin"
 tags = ["sketch"]
 +++
 
-There is a certain view, which I have found useful, that views learning as analagous to protein folding.
+There is a certain view, which I have found useful, that views learning as analogous to protein folding.
 
 <center>⋯</center>
 
 In this view, your understanding is viewed as analogous to a protein. It is comprised of various parts, ordered and oriented in relation to each other, the total structure of which determines the function of your being.
 
-The data of your experience are also viewed as proteins, which can interact with the much larger and more intricate structure of your understanding.
+The data of your experience are viewed as molecules, which can interact with the much larger and more intricate structure of your understanding.
 
 <center>⋯</center>
 
@@ -33,7 +33,7 @@ We might also speak of this in terms of resonance: you are unlikely to learn fro
 
 <center>⋯</center>
 
-Though we talk of others misunderstanding data, perhaps it would be better to speak of them misapprehending data: there might be multiple parts of the data that they can interface with/multiple parts of that data that resonate. Depending on which of these facets one apprehends, the way that one's understanding evolves might vary.
+Though we talk of misunderstanding data, perhaps it would be better to speak of misapprehending data: there might be multiple parts of the data that can be interfaced with/multiple parts of that data that resonate. Depending on which of these facets one apprehends, the way that one's understanding evolves might vary.
 
 <center>⋯</center>
 
@@ -63,3 +63,16 @@ We might then think of memes (in the Richard Dawkins/memetics sense of the word)
 
 What are good and bad memes, then? The answer is the same as above: those which cause greater long-term self-alignment and self-conflict, respectively.
 
+<center>⋯</center>
+
+*What does this view give you?*
+
+I have found that this view neatly describes a couple of useful phenomena:
+- Learning requires at least some dissonance, which might be experienced as either frustration or confusion. Too much, and you reject the data or are unable to grasp it. Too little, and no learning occurs.
+- Delivering feedback with some form of compliment works because it adds resonant features to the data, helping people deal with the dissonance of the feedback itself. For this to work, the compliments have to be genuinely resonant. Note that compliments aren't strictly necessary if the feedback itself is resonant. This might be the case if someone already had an intuition that the thing being critiqued could have been better.
+- If someone is unable to understand something, or if the concept just "bounces off" of them, it can be helpful to "add handles" to the data. "Handles" for the data look like features of that data that have resonance/interact with receptors in the learners understanding. This can look like giving concrete examples or analogizing it to something that they already understand.
+- Dissociation is a type of learning that involves "decoherence" of structure of understanding. "Decoherence" of the structure of understanding involve partitioning it, cleaving it, or otherwise making it disjoint so that there exist two or more sections of understanding that rarely interact with each other. The issues with this is that shifts in understanding, driven by later learning, can cause these separate sections to collide with each other again.
+- No changes in understanding are fundamentally different from any others, though the magnitude can differ. All learning is shifting in the structure of understanding, some of which may be larger or smaller, but all of which exist on the same fundamental spectrum.
+- Shifting understanding involves local operations (local folds in the protein), but is used to solve a *global* optimization problem. Extremely complex chains of local operations might be required to effect the desired global changes in understanding.
+- Misunderstandings/mis-foldings can compound over time and have substantial global effects.
+- Misunderstandings/mis-foldings can be occluded by other parts of the structure of understanding. Things can lie "in the middle" of the protein, and not be directly accessible until parts of it have shifted out of the way.
