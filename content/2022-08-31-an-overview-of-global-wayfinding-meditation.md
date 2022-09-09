@@ -169,7 +169,7 @@ Journaling can be very useful for gaining greater understanding of oneself. It c
 
 One may find that what one thinks, feels, or believes may subtly or overtly change while journaling. This can be frustrating or confusing, as one might feel that they have finally gotten what they feel down on paper, but then find a little while later that it doesn't seem exactly right. This is totally fine, and can be useful to note or investigate.
 
-While journaling can be very useful, and a great practice for many people, I think that it can prove fairly limited in the long run, as one will probably need to work with "the direct machinery of though" and "raw experience" (quotes to emphasize that one shouldn't take these concepts to literally, they are not quotes from the Manual) in addition to words.
+While journaling can be very useful, and a great practice for many people, I think that it can prove fairly limited in the long run, as one will probably need to work with "the direct machinery of thought" and "raw experience" (quotes to emphasize that one shouldn't take these concepts to literally, they are not quotes from the Manual) in addition to words.
 
 ### 6.6: Mindfulness
 
